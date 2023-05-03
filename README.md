@@ -1,5 +1,5 @@
 
-<a href="https://instagram.com/marineehanc_?igshid=YmMyMTA2M2Y="><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%ffffff&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Marinee+Han;Innovation+Engineer+Student"></a>
+<a href="https://instagram.com/marineehanc_?igshid=YmMyMTA2M2Y="><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%ffc0cb&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Marinee+Han;Innovation+Engineer+Student"></a>
 <!--
 **marineehan-2307/marineehan-2307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
