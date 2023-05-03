@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&label=Profile%20views&color=0e75b6&style=flat" alt="akash-chowrasia" /> </p>
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
-<a href="https://instagram.com/marineehanc_?igshid=YmMyMTA2M2Y="><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%ffc0cb&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Marinee+Han;Innovation+Engineer+Student"></a>
+<a href="https://instagram.com/marineehanc_?igshid=YmMyMTA2M2Y="><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%ffc0cb&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Marinee+Han;Innovation+And+Design+Engineer+Student"></a>
 <!--
 **marineehan-2307/marineehan-2307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
